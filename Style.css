@@ -1,0 +1,124 @@
+.menu {
+  position: absolute;
+  top:0px;
+  left:0px;
+  height: 710px;
+  width: 300px;
+  background-color: #4F4F4F;
+  z-index: 1;
+  opacity :90%;
+}
+.hotbar {
+  z-index: 1;
+  position: absolute;
+  background-color: black;
+  opacity: 80%;
+width: 425px;
+left :0px;
+top :0px;
+height :55px;
+}
+body{
+  font-family: Sans-serif;
+  background-color :#000107;
+  background-image : url('./1672415121030.gif') ;
+  background-position: center;
+  background-size: 1000px ;
+  color:#FFFFFF;
+}
+h1{
+  position:absolute ;
+  left:20px;
+  top:13px;
+  font-size: 30px;
+  color: #007CD2;
+  background-color :#00121F;
+padding: 50px;
+border: 1px solid #007CD2;
+width: 270px;
+height: 30px;
+margin-left:0px;
+}
+.boxele{
+  background :#00031E;
+  border: 3px solid #002842;
+  position :absolute ;
+  top:22px;
+  width :390px;
+  height: 150px;
+}
+.boxele2{
+  background :#00031E;
+  border: 1px solid #007CD2;
+  position :absolute;
+  top:240px;
+  left:10px;
+  width :390px;
+  height: 420px;
+  opacity: 50%;
+}
+  
+.lo{
+  background :#00031E;
+  border: 1px solid #007CD2;
+  position :absolute ;
+  top:250px;
+  left:20px;
+  width :370px;
+  height: 400px;
+}
+.app1{
+  color:#00A8FF;
+  position :absolute ;
+  top:280px;
+  left:30px;
+  font-size :25px;
+  background-color :#001D2C;
+  padding :10px;
+  transition-duration :2s;
+}
+.app1:hover {
+  color :#00FF52;
+}
+.s{
+  position :absolute ;
+  width :40px;
+  height: 40px ;
+  z-index: 2;
+}
+.next{
+  color:#FFFFFF;
+  background-color :#FFFFFF;
+  position :absolute ;
+}
+.ii {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  z-index: 2;
+}
+p{
+  position :absolute ;
+  z-index :4;
+  top:60px;
+  
+}
+.box {
+  display: block;
+}
+.bt1{
+  background :#777777D6;
+  color:#FFFFFFD6;  
+  margin: 10px;
+  padding: 5px;
+  
+}
+#game{
+  height :300px;
+  width :400px ;
+  top :200px;
+  left:10px;
+  background :#000000D6;
+  position :absolute ;
+  z-index :6;
+}
