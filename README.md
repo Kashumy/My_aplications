@@ -9,4 +9,13 @@ https://kashumy.github.io/My_aplications/Index.html
 ## 😉👍 pobierz moje apk
 ### pracuje nad nowym profilo
 
-/*_*
+#📦 dowload
+
+#📄 new version ( 1.3.2023y/r.)
+
+#📕 readme.md 
+
+#🛠️ build...
+''''
+''''
+
