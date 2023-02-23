@@ -77,7 +77,20 @@ margin-left:0px;
   padding :10px;
   transition-duration :2s;
 }
+.app2{
+  color:#00A8FF;
+  position :absolute ;
+  top:380px;
+  left:30px;
+  font-size :25px;
+  background-color :#001D2C;
+  padding :10px;
+  transition-duration :2s;
+}
 .app1:hover {
+  color :#00FF52;
+}
+.app2:hover {
   color :#00FF52;
 }
 .s{
